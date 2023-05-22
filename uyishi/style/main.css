@@ -1,0 +1,26 @@
+#title{
+    color: blue;
+    text-align: center;
+}
+
+body{
+    background-color: yellow;
+    border: dashed 3px violet;
+}
+
+.list{
+     color: blueviolet;
+
+}
+
+.list_item{
+   color: mediumblue;
+}
+
+.list_items{
+   color: royalblue;
+}
+
+.list_text{
+   color: dodgerblue;
+}
